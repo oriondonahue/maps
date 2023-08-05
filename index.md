@@ -21,6 +21,6 @@ or
 <details>
 <summary>Filtered Invasive Map</summary>
 <br>
-<iframe src="FilterdMap/InvasiveMap2.html" height="700" width="700"></iframe> 
+<iframe src="FilteredMap/InvasiveMap2.html" height="700" width="700"></iframe> 
 </details>
 
