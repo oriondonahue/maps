@@ -12,5 +12,5 @@ or
 
     via map embedding
 
-<iframe src="Full Map/InvasiveMap1.html" height="700" width="700"></iframe> 
+<iframe src="FullMap/InvasiveMap1.html" height="700" width="700"></iframe> 
 <iframe src="FilterdMap/InvasiveMap2.html" height="700" width="700"></iframe> 
