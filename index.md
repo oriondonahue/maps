@@ -30,9 +30,9 @@ or
 
 
 
-[1]: American Pokeweed while considered a pest species and occuring 31 times in the dataset was of less interest to me in this analysis. The established relationship between Tree of Heaven and Spotted Lanternflies, and the aggressive nature of its growth made it a more interesting species to analyze.
+[1] American Pokeweed while considered a pest species and occuring 31 times in the dataset was of less interest to me in this analysis. The established relationship between Tree of Heaven and Spotted Lanternflies, and the aggressive nature of its growth made it a more interesting species to analyze.
 
 
 
-[2]:  Environmental Entomology, Volume 49, Issue 5, October 2020, Pages 999–1011, https://doi.org/10.1093/ee/nvaa093
+[2]  Environmental Entomology, Volume 49, Issue 5, October 2020, Pages 999–1011, https://doi.org/10.1093/ee/nvaa093
 
