@@ -10,8 +10,8 @@ You can explore the maps either
 
     at their full extents 
     
-<a href="https://oriondonahue.github.io/maps/InvasiveMap1">Full Map</a>
-or  <a href="https://oriondonahue.github.io/maps/InvasiveMap2">Filtered Map</a>
+<a href="https://oriondonahue.github.io/maps/InvasiveMap1" target="_blank">Full Map</a>
+or  <a href="https://oriondonahue.github.io/maps/InvasiveMap2" target="_blank">Filtered Map</a>
 
 or
 
