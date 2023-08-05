@@ -4,7 +4,7 @@ This is a testpage for a map of invasive plants and insects in the bounds of Cen
 
 
 
-You can explore the map either
+aaaaaYou can explore the map either
 
     at full extent view via https://oriondonahue.github.io/oriondonahue/invasivemap.html
 
