@@ -12,5 +12,15 @@ or
 
     via map embedding
 
+<details>
+<summary>Full Invasive Map</summary>
+<br>
 <iframe src="FullMap/InvasiveMap1.html" height="700" width="700"></iframe> 
+</details>
+
+<details>
+<summary>Filtered Invasive Map</summary>
+<br>
 <iframe src="FilterdMap/InvasiveMap2.html" height="700" width="700"></iframe> 
+</details>
+
