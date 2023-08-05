@@ -9,8 +9,9 @@ The second map filters to the two most common invasive plants in the dataset,<su
 You can explore the maps either
 
     at their full extents 
+    
 <a href="https://oriondonahue.github.io/maps/InvasiveMap1">Full Map</a>
-    or  <a href="https://oriondonahue.github.io/maps/InvasiveMap2">Filtered Map</a>
+or  <a href="https://oriondonahue.github.io/maps/InvasiveMap2">Filtered Map</a>
 
 or
 
