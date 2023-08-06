@@ -1,6 +1,6 @@
 <style type="text/css">
   body {
-    background-color: #f8f2fa;
+    background-color: #f7f2f6;
   }
 </style>
 <h1 style="color:#126e1b;">Invasives Map</h1>
