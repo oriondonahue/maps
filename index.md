@@ -15,9 +15,9 @@
 
 This page contains two maps made to analyze distribution and amount of invasive plants and insects using iNaturalist data last pulled on August 1st 2023.
 
-The first map filters down all plant data to a common list of mostly plants considered invasive in New York State as well as some weeds of interest for NYC gardeners (Eastern Poison Ivy and American Pokeweed being two notable examples.)
+The first map filters down all plant data to a common list of invasive plants in New York state as compiled from the New York Invasive Species site<sup>1</sup>
 
-The second map filters to the two most common invasive plants in the dataset,<sup>1</sup> Lesser Celandine (40 occurences) and Tree of Heaven (30 occurences). It also includes the Invasive Insects dataset, whose most prolific member is the Spotted Lanternfly (260 occurences). Spotted Lanternflies prefer Tree of Heaven as a host species, but have been observed feeding on as many as 56 plant taxa in North America and 103 globally.<sup>2</sup>
+The second map filters to the two most common invasive plants in the dataset, Lesser Celandine (40 occurences) and Tree of Heaven (30 occurences). It also includes the Invasive Insects dataset, whose name could be renamed to that of its most prolific member -- the Spotted Lanternfly (260 occurences). Spotted Lanternflies prefer Tree of Heaven as a host species, but have been observed feeding on as many as 56 plant taxa in North America and 103 globally.<sup>2</sup>
 
 You can explore the maps either
 
@@ -47,7 +47,7 @@ or
 
 
 
-[1] American Pokeweed while considered a pest species and occuring 31 times in the dataset was of less interest to me in this analysis. The established relationship between Tree of Heaven and Spotted Lanternflies, and the aggressive nature of its growth made it a more interesting species to analyze.
+[1] https://nyis.info/
 
 
 
